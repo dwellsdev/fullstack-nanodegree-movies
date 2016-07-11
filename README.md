@@ -14,3 +14,6 @@ These files were written and tested with Python 2.7.12.
 ## How to Use
 
 To generate the page, open and run movies.py. Add additional movies by editing the object located in the movies.py file.
+
+## Resources used
+The fresh_tomatoes.py file was provided by Udacity, and has been modified to personalize the HTML generated.
